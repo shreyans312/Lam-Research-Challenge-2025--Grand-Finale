@@ -1,4 +1,4 @@
-![main-game-1](https://github.com/user-attachments/assets/122c18a6-f4da-4e7e-b536-80b21c094d79)# LAM Research Challenge 2025 – Grand Finale  
+# LAM Research Challenge 2025 – Grand Finale  
 ### Team **Mahagatbandhan** | Top **24** Nationwide | **6th Rank - Hardware Hustle** | **2nd Rank - Logical League
 
 This repository contains the **complete firmware, control logic, and system-level integration** developed by **Team Mahagatbandhan** for the **LAM Research Challenge 2025 – Grand Finale**.
@@ -7,9 +7,10 @@ Our team was:
 - **Selected among the Top 24 teams** across India from over 7000+ participants 
 - 🏅 **Ranked 6th** in the **Hardware Hustle round**
 
+![main-game-1](https://github.com/user-attachments/assets/e3e7262b-3975-46e1-9c03-dd84bfbfa763)
 
-![Uploading main-game-1.jpeg…](![main-game-2](https://github.com/user-attachments/assets/06012379-e962-40c6-9ed3-dc57447c0da7)
-)
+![main-game-2](https://github.com/user-attachments/assets/cb56abc0-5630-4926-a943-76516d2a9111)
+
 
 The project demonstrates a **full-stack embedded robotics system**, integrating autonomous navigation, closed-loop control, sensing, and arena-level automation under real-world constraints.
 
