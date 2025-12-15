@@ -127,5 +127,5 @@ Lam-Research-Challenge-2025--Grand-Finale/
 
 ![full-bothteams](https://github.com/user-attachments/assets/9513ad6f-4f49-4d05-bbce-6f29a768346a)
 
-##Our Journey
+## Our Journey
 https://drive.google.com/file/d/1ikm6GsKWoiBmB5fGYhCF9nq6xQEZmxUz/view
